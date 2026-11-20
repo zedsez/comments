@@ -10,8 +10,8 @@
 
 main {
   /* the site's palette */
-  --site-bg: #273239;
-  --site-fg: #ffffff;
+  --site-bg: #2f3d42;
+  --site-fg: #eef2f3;
   --site-muted: #b9c4c9;
   --site-line: #4d5e64;
   --site-accent: #e8eef1;

@@ -11,10 +11,10 @@
 main {
   /* the site's palette */
   --site-bg: #fcfaf2;
-  --site-fg: #273239;
+  --site-fg: #2f3d42;
   --site-muted: #5f6b70;
   --site-line: #d9d4c7;
-  --site-accent: #273239;
+  --site-accent: #2f3d42;
   --site-link: #3a6ea5;
   --site-raised: #edece5; /* the site's --code-bg: boxes, buttons, code */
   --site-wrong: #b3261e;
